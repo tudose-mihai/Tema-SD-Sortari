@@ -1,0 +1,105 @@
+Nr. elemente: 1
+Element maxim: 7
+Timp generare: 0 ms
+
+bubbleSort: 0 ms sortat
+
+
+Nr. elemente: 10
+Element maxim: 97
+Timp generare: 0 ms
+
+bubbleSort: 0 ms sortat
+
+
+Nr. elemente: 100
+Element maxim: 991
+Timp generare: 0 ms
+
+bubbleSort: 0 ms sortat
+
+
+Nr. elemente: 1000
+Element maxim: 8941
+Timp generare: 0 ms
+
+bubbleSort: 3 ms sortat
+
+
+Nr. elemente: 10000
+Element maxim: 78721
+Timp generare: 0 ms
+
+bubbleSort: 1858 ms sortat
+
+
+Nr. elemente: 1
+Element maxim: 7
+Timp generare: 0 ms
+
+mergeSort:  0 ms sortat
+quickSort:  0 ms sortat
+countSort:  0 ms sortat
+radixSort:  0 ms sortat
+
+
+Nr. elemente: 10
+Element maxim: 97
+Timp generare: 0 ms
+
+mergeSort:  0 ms sortat
+quickSort:  0 ms sortat
+countSort:  0 ms sortat
+radixSort:  0 ms sortat
+
+
+Nr. elemente: 100
+Element maxim: 991
+Timp generare: 0 ms
+
+mergeSort:  0 ms sortat
+quickSort:  0 ms sortat
+countSort:  0 ms sortat
+radixSort:  0 ms sortat
+
+
+Nr. elemente: 1000
+Element maxim: 8941
+Timp generare: 0 ms
+
+mergeSort:  0 ms sortat
+quickSort:  0 ms sortat
+countSort:  0 ms sortat
+radixSort:  0 ms sortat
+
+
+Nr. elemente: 10000
+Element maxim: 78721
+Timp generare: 0 ms
+
+mergeSort:  2 ms sortat
+quickSort:  1 ms sortat
+countSort:  0 ms sortat
+radixSort:  7 ms sortat
+
+
+Nr. elemente: 100000
+Element maxim: 281683
+Timp generare: 10 ms
+
+mergeSort:  71 ms sortat
+quickSort:  32 ms sortat
+countSort:  26 ms sortat
+radixSort:  30 ms sortat
+
+
+Nr. elemente: 1000000
+Element maxim: 7654567
+Timp generare: 29 ms
+
+mergeSort:  1153 ms sortat
+quickSort:  256 ms sortat
+countSort:  190 ms sortat
+radixSort:  150 ms sortat
+
+
